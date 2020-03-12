@@ -648,6 +648,8 @@
 		<Product type="0003" id="0001" name="EUR_SPIRITZ Wall Radiator Thermostat" config="eurotronic/eur_spiritz.xml"/>
 		<Product type="0003" id="0002" name="EUR_SPIRITZ Wall Radiator Thermostat" config="eurotronic/eur_spiritz.xml"/>
 		<Product type="0003" id="0003" name="EUR_SPIRITZ Wall Radiator Thermostat" config="eurotronic/eur_spiritz.xml"/>
+		<Product type="0004" id="0001" name="Temperature and Humidity Sensor" config="eurotronic/eur_temphumin.xml"/>
+    		<Product type="0005" id="0001" name="Air Quality Sensor" config="eurotronic/eur_airquality.xml"/>
 	</Manufacturer>
 	<Manufacturer id="0060" name="Everspring">
 		<Product type="0001" id="0001" name="HSP02 Motion Detector" config="everspring/hsp02.xml"/>
