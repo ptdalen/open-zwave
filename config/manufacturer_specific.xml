@@ -1708,6 +1708,9 @@
 	</Manufacturer>
 	<Manufacturer id="0153" name="Revolv">
 	</Manufacturer>
+	<Manufacturer id="0346" name="Ring">
+		<Product type="0601" id="0101" name="Smoke/CO Listener" config="ring/BHASL001.xml"/>
+	</Manufacturer>
 	<Manufacturer id="035E" name="RISCO Group">
 	</Manufacturer>
 	<Manufacturer id="023B" name="ROC-Connect">
