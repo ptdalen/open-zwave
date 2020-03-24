@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!-- Aeotec Smart Switch 7 -->
-<Product xmlns='https://products.z-wavealliance.org/products/3437'>
+<!-- Aeotec Smart Switch 7
+https://products.z-wavealliance.org/products/3437
+ -->
+<Product xmlns='http://code.google.com/p/open-zwave/'>
 <!-- Configuration Parameters -->
     <CommandClass id="112">
         <Value genre="config" index="4" label="Over-load protection" max="2415" min="0" size="2" type="short" units="" value="2415">

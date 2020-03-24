@@ -87,6 +87,7 @@ DISTFILES =	.gitignore \
 	config/aeotec/zw140.xml \
 	config/aeotec/zw141.xml \
 	config/aeotec/zw162.xml \
+	config/aeotec/zw175.xml \
 	config/aeotec/zwa001.xml \
 	config/aeotec/zwa002.xml \
 	config/aeotec/zwa003.xml \
@@ -94,6 +95,7 @@ DISTFILES =	.gitignore \
 	config/aeotec/zwa005.xml \
 	config/aeotec/zwa006.xml \
 	config/aeotec/zwa008.xml \
+	config/aeotec/zwa021.xml \
 	config/assa_abloy/ConexisL1.xml \
 	config/assa_abloy/KeyfreeConnected-plus.xml \
 	config/assa_abloy/KeyfreeConnected.xml \
@@ -167,9 +169,11 @@ DISTFILES =	.gitignore \
 	config/enerwave/zwn-sc7.xml \
 	config/enerwave/zwnrsm1plus.xml \
 	config/enerwave/zwnrsm2plus.xml \
+	config/eurotronic/eur_airquality.xml \
 	config/eurotronic/eur_cometz.xml \
 	config/eurotronic/eur_spiritz.xml \
 	config/eurotronic/eur_stellaz.xml \
+	config/eurotronic/eur_temphumin.xml \
 	config/everspring/ad146.xml \
 	config/everspring/ad147.xml \
 	config/everspring/an145.xml \
@@ -227,6 +231,7 @@ DISTFILES =	.gitignore \
 	config/fibaro/fgsd002.xml \
 	config/fibaro/fgss101.xml \
 	config/fibaro/fgt001.xml \
+	config/fibaro/fgwd111.xml \
 	config/fibaro/fgwpe.xml \
 	config/fibaro/fgwpfzw5.xml \
 	config/fibaro/fgwpg111.xml \
@@ -245,7 +250,6 @@ DISTFILES =	.gitignore \
 	config/ge/14282-plugin-switch.xml \
 	config/ge/14288-outlet.xml \
 	config/ge/14291-switch.xml \
-	config/ge/46201-switch.xml \
 	config/ge/14292-toggle-switch.xml \
 	config/ge/14294-dimmer.xml \
 	config/ge/14295-dimmer-toggle.xml \
@@ -253,6 +257,7 @@ DISTFILES =	.gitignore \
 	config/ge/26933-motion-dimmer.xml \
 	config/ge/28167-plugin-dimmer.xml \
 	config/ge/28169-plugin-switch.xml \
+	config/ge/46201-switch.xml \
 	config/ge/dimmer.xml \
 	config/ge/dimmer_module.xml \
 	config/ge/hinge-pin.xml \
@@ -302,6 +307,7 @@ DISTFILES =	.gitignore \
 	config/homeseer/hsm100.xml \
 	config/homeseer/hsm200.xml \
 	config/homeseer/ztroller.xml \
+	config/honeywell/39348-zw4008.xml \
 	config/honeywell/39351-ZW3005.xml \
 	config/honeywell/lynx-touch-l5100.xml \
 	config/honeywell/th6320zw2003.xml \
@@ -332,6 +338,7 @@ DISTFILES =	.gitignore \
 	config/iris/rangeextender.xml \
 	config/kaipule/im20.xml \
 	config/kaipule/ix32.xml \
+	config/kwikset/914c.xml \
 	config/kwikset/smartcode.xml \
 	config/leviton/dz15s.xml \
 	config/leviton/dz6hd.xml \
@@ -434,6 +441,7 @@ DISTFILES =	.gitignore \
 	config/qubino/ZMNHCDx.xml \
 	config/qubino/ZMNHDA2.xml \
 	config/qubino/ZMNHDDx.xml \
+	config/qubino/ZMNHHDx.xml \
 	config/qubino/ZMNHIA2.xml \
 	config/qubino/ZMNHIDxS1.xml \
 	config/qubino/ZMNHIDxS2.xml \
@@ -503,6 +511,7 @@ DISTFILES =	.gitignore \
 	config/thermofloor/heatit021.xml \
 	config/thermofloor/heatit033.xml \
 	config/thermofloor/heatit056.xml \
+	config/thermofloor/heatitzdim.xml \
 	config/trane/TZEMT400AB32MAA.xml \
 	config/trane/TZEMT400BB32MAA.xml \
 	config/trane/TZEMT524AA21MA.xml \

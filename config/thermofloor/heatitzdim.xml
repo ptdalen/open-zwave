@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!-- Heatit Z-Dim Light Dimmer Switch (Firmware 1.0) -->
-<Product xmlns='https://products.z-wavealliance.org/products/3261'>
+<!-- Heatit Z-Dim Light Dimmer Switch (Firmware 1.0)
+https://products.z-wavealliance.org/products/3261
+-->
+<Product xmlns='http://code.google.com/p/open-zwave/'>
 
 	<CommandClass id="112" name="COMMAND_CLASS_CONFIGURATION">
 		<Value type="byte" genre="config" index="1" label="Connected Load" min="0" max="200" size="1" value="0">
 			<Help>
-				This parameter defines the value of connected load. 
+				This parameter defines the value of connected load.
 				0 Not configured (Default)
 				1-200 Watts connected load
 			</Help>
@@ -43,7 +45,7 @@
 		</Value>
 		<Value type="byte" genre="config" index="7" label="Switch ON level" min="0" max="99" size="1" value="0">
 			<Help>
-				This parameter defines the dimming level when restored from OFF state by push button. 
+				This parameter defines the dimming level when restored from OFF state by push button.
 				0 Restores last dim level (Default)
 				1-99%
 			</Help>
